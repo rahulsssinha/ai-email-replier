@@ -1,2 +1,4 @@
-# ai-email-replier
-AI-powered email reply generator built using Spring Boot (REST APIs) and JavaScript Chrome Extension. Integrates Gemini API via WebClient to generate smart, context-aware email responses automatically inside Gmail.
+📧 AI Email Replier
+
+An AI-powered email reply generator that works directly inside Gmail.
+This project uses Spring Boot to build REST APIs and a JavaScript Chrome Extension as the frontend interface.
